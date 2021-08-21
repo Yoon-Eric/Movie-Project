@@ -3,4 +3,4 @@ Objective: Using a dataset from Kaggle (scrapped from IMDb), find trends in the 
 
 All the data analysis (data cleaning, data visualization using python, answering questions) has been done in the Movie.ipynb file (using jupyter notebook).
 
-Comment - Visualization using Bokeh sometimes doesn't show up when viewing it on github
+Comment - Line graph using Bokeh sometimes doesn't show up when viewing it on github, so I also included a .png file showing the graph
